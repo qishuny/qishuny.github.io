@@ -7,9 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-## RFT stuff
+## Contents
 
-This is my [master thesis](https://github.com/qishuny/3D-RFT-wheel)
+[Modeling Wheel Locomotion in Granular Media using 3D Resistive Force Theory and Sand Deformation Simulator](#modeling-wheel-locomotion-in-granular-media-using-3d-resistive-force-theory-and-sand-deformation-simulator)
+
+## Modeling Wheel Locomotion in Granular Media using 3D Resistive Force Theory and Sand Deformation Simulator
+
+<img src="/images/3DWheelExampleForce.png">
+<img src="/images/FEMMODEL.gif">
+
+(https://github.com/qishuny/3D-RFT-wheel)
 
 ## EKF stuff
 
