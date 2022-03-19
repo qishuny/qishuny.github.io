@@ -28,7 +28,8 @@ In this paper, we apply the 3D-RFT method to rover wheel models and perform expe
 ## Extended Kalman Filter on Legged Robot
 
 I am currently focusing on implementing a legged robot state estimator on a quadruped robot. The detail code can be found [here](https://github.com/qishuny/EKFtest)
-<img src="/images/traj.png" width="49%"> <img src="/images/traj.png" width="49%">
+<img src="/images/traj.png" width="39%"> <img src="/images/traj.png" width="39%">
+<img src="/images/robotwalking.png" width="49%">
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 <iframe src="https://www.youtube.com/watch?v=Znt8maei4fA&ab_channel=QishunYu?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,7 +37,7 @@ I am currently focusing on implementing a legged robot state estimator on a quad
 ## Robot Localization and Mapping
 
 [Class projects](https://github.com/qishuny/Robot-Localization-and-Mapping) of CMU RI 16833 which we implemented particle filters, EKF, Linear and Non-Linear least squares problem, and point-based fusion.
-<img src="/images/HW3result.png" width="49%">
+<img src="/images/HW3result.png" width="29%">
 <img src="/images/HW4result.png" width="49%">
 
 ## Robot Path Planning
