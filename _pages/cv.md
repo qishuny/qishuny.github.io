@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [Download CV](https://drive.google.com/file/d/1l52edOpmPJhSCyaCeT8nAeFgpEZq4AJC/view?usp=sharing)
 
-# <!-- Education
+ <!-- Education
 
 - B.S. in GitHub, GitHub University, 2012
 - M.S. in Jekyll, GitHub University, 2014
