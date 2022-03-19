@@ -19,8 +19,7 @@ author_profile: true
 
 ## Modeling Wheel Locomotion in Granular Media using 3D Resistive Force Theory and Sand Deformation Simulator
 
-<img src="/images/3DWheelExampleForce.png" width="49%">
-<img src="/images/FEMMODEL.gif" width="49%">
+<img src="/images/3DWheelExampleForce.png" width="49%"> <img src="/images/FEMMODEL.gif" width="49%">
 
 The 3D Resistive Force Theory (3D-RFT) divides the intruder into segments and the net force of the body can be approximated by the linear superposition of the local stress at each segment.
 
@@ -29,9 +28,9 @@ In this paper, we apply the 3D-RFT method to rover wheel models and perform expe
 ## Extended Kalman Filter on Legged Robot
 
 I am currently focusing on implementing a legged robot state estimator on a quadruped robot. The detail code can be found [here](https://github.com/qishuny/EKFtest)
-<img src="/images/traj.png" width="49%">
-<img src="/images/traj.png" width="49%">
+<img src="/images/traj.png" width="49%"> <img src="/images/traj.png" width="49%">
 
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
 <iframe src="https://www.youtube.com/watch?v=Znt8maei4fA&ab_channel=QishunYu?mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Robot Localization and Mapping
