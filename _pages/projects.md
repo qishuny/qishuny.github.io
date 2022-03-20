@@ -28,7 +28,7 @@ In this paper, we apply the 3D-RFT method to rover wheel models and perform expe
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
 ## Extended Kalman Filter on Legged Robot
 
-I am currently focusing on implementing a legged robot state estimator on a quadruped robot. The detail code can be found [here](https://github.com/qishuny/EKFtest)
+I am currently focusing on implementing a legged robot state estimator on a quadruped robot. The detail code can be found [here](https://github.com/robomechanics/quad-software)
 <img src="/images/traj.png" width="39%"> <img src="/images/traj.png" width="39%">
 <img src="/images/robotwalking.png" width="49%">
 
