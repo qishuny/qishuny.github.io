@@ -11,7 +11,7 @@ redirect_from:
 
 Hello!
 
-My name is Qishun Yu. I am interested in controls, motion planning, robot state estimation, and everything about robotics! You can find out more about my past academic projects and research under the "Projects" section.
+My name is Qishun Yu. I am interested in controls, motion planning, robot state estimation, and everything about robotics! You can find out more about my past academic projects and research under the [PROJECTS](projects.md) section. For more information, you can visit the [RESUME](cv.md) section and download my latest resume.
 
 Currently, I am a master's student at [Carnegie Mellon University](https://www.cmu.edu/) majoring in Mechanical Engineering. During my master's study, I have been working at CMU [Robomechanics Lab](https://www.cmu.edu/me/robomechanicslab/). I am currently focusing on implementing a legged robot state estimator on a quadruped robot using an Extended Kalman Filter. Meanwhile, my master thesis is on the locomotion of robots, especially wheeled rovers, in granular media. I propose a novel method of combining a 3D-Resistive Force Theory (3D-RFT) model with a soil deformation model. The new model is implemented in MATLAB and applied to compute forces on wheels at various slip angles and slip ratio conditions.
 
