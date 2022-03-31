@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download Resume](https://drive.google.com/file/d/1RGcTeVcQqWOTY6OWlBi5sGGjyLX-yOWM/view?usp=sharing)
+[Download Resume](https://drive.google.com/file/d/1xQNCreLyyCmQQ181gbqxddB9NHpPVzoF/view?usp=sharing)
 
 <!-- [Download CV](https://drive.google.com/file/d/1l52edOpmPJhSCyaCeT8nAeFgpEZq4AJC/view?usp=sharing) -->
